@@ -1,0 +1,108 @@
+{
+  "statementModel": {
+    "title": "Oświadczenie Isonomii",
+    "complianceStatus": "Status zgodności",
+    "complianceText1": "Mamy mocne przekonanie, że Internet powinien być dostępny i dostępny dla każdego oraz zobowiązujemy się do dostarczania strony internetowej, która będzie dostępna dla najszerszej możliwej publiczności, niezależnie od zdolności.",
+    "complianceText2": "Aby to osiągnąć, staramy się jak najściślej przytrzymać Wytycznym dotyczącym Dostępności Treści Internetowej (WCAG) 2.1 na poziomie AA Konsorcjum World Wide Web (W3C). Te wytyczne tłumaczą, jak uczynić treści internetowej dostępną dla osób z szerokim zakresem niepełnosprawności. Przestrzeganie tych wytycznych pomaga nam zapewnić, że strona internetowa jest dostępna dla osób niewidomych, osób z niepełnosprawnościami ruchowymi, wzrokowymi, poznawczymi i więcej.",
+    "complianceText3": "Ta strona internetowa wykorzystuje różne technologie, które mają na celu uczynienie jej maksymalnie dostępną w każdym czasie. Wykorzystujemy interfejs dostępności, który umożliwia osobom z określonymi niepełnosprawnościami dostosowanie interfejsu użytkownika (UI) strony internetowej i zaprojektowanie go według ich indywidualnych potrzeb.",
+    "complianceText4": "Ponadto strona internetowa wykorzystuje aplikację opartą o sztuczną inteligencję, która działa w tle, a ciągle optymalizuje jej poziom dostępności. Ta aplikacja naprawia HTML strony internetowej, dostosowuje jej funkcjonalność i zachowanie dla czytników ekranowych używanych przez niewidomych użytkowników oraz dla funkcji klawiatury używanych przez osoby z niepełnosprawnościami ruchowymi.",
+    "complianceText5": "Jeśli chcesz skontaktować się z właścicielem strony internetowej, użyj formularza strony internetowej",
+    "ariaAttributes": "Nasza strona internetowa implementuje technikę atrybutów ARIA (Accessible Rich Internet Applications) wraz z różnymi zmianami zachowania, aby zapewnić, że niewidomi użytkownicy odwiedzający ją za pomocą czytników ekranowych mogą czytać, rozumieć i cieszyć się funkcjonalnościami strony. Gdy użytkownik z czytnikiem ekranu wchodzi na Twoją stronę, natychmiast otrzymuje monit do wejścia w profil czytnika ekranu, aby mógł przeglądać i obsługiwać Twoją stronę w sposób skuteczny. Oto jak nasza strona internetowa spełnia niektóre z najważniejszych wymagań czytników ekranowych:",
+    "screenReaderOptimization": "Optymalizacja czytnika ekranowego:",
+    "screenReaderText": "Prowadzimy proces, który uczy komponentów strony internetowej od góry do dołu, aby zapewnić ciągłą zgodność nawet podczas aktualizowania strony internetowej. W tym procesie dostarczamy czytnikom ekranowym istotne dane za pomocą zestawu atrybutów ARIA. Na przykład dostarczamy dokładne etykiety formularzy; opisy dla ikony wykonywalnych (ikony mediów społecznościowych, ikony wyszukiwania, ikony wózka itp.); wskazówki dotyczące walidacji wejść formularzy; role elementów takich jak przyciski, menu, okna dialogowe modalne (wyskakujące) i inne. Ponadto proces w tle skanuje wszystkie obrazy strony internetowej. Dostarcza dokładny i znaczący opis oparty o rozpoznawaniu obiektów na obrazach jako tag ALT (tekst alternatywny) dla obrazów, które nie są opisane. Wyciąga również teksty osadzone w obrazie za pomocą technologii rozpoznawania optycznego znaków (OCR). Aby włączyć dopasowania czytnika ekranowego w dowolnym momencie, użytkownicy muszą tylko nacisnąć kombinację klawiszy Alt+1. Użytkownicy czytników ekranowych otrzymują również automatyczne ogłoszenia o włączeniu trybu czytnika ekranu, gdy wchodzą na stronę internetową. Te dopasowania są zgodne z popularnymi czytnikami ekranowymi, takimi jak JAWS, NVDA, VoiceOver i TalkBack.",
+    "keyboardNavigationOptimization": "Optymalizacja nawigacji klawiaturowej:",
+    "keyboardNavigationText": "Proces w tle dostosowuje również HTML strony internetowej i dodaje różne zachowania za pomocą kodu JavaScript, aby strona internetowa mogła być obsługiwana przez klawiaturę. To obejmuje możliwość nawigowania po stronie internetowej za pomocą klawiszy Tab i Shift+Tab, obsługi rozwijanych list za pomocą klawiszy strzałek, zamykania ich za pomocą klawisza Esc, aktywowania przycisków i linków za pomocą klawisza Enter, nawigowania między elementami przycisków radiowych i pole wyboru za pomocą klawiszy strzałek oraz wypełniania ich za pomocą spacji lub klawisza Enter. Ponadto użytkownicy klawiatury znajdą menu pomijania zawartości dostępne w dowolnym momencie, klikając Alt+2 lub jako pierwszy element strony podczas nawigowania klawiaturą. Proces w tle obsługuje również wywołane wyskakujące okna, przesuwając do nich fokus klawiatury, gdy one pojawiają się, nie pozwalając fokusowi na odchylenie się poza nie."
+  },
+  "interfaceModel": {
+    "title": "Ukryć interfejs dostępności?",
+    "description": "Uwaga: Jeśli zdecydujesz się ukryć interfejs dostępności, nie będziesz w stanie go zobaczyć, chyba że wyczyścisz historię przeglądarki i dane. Czy na pewno chcesz ukryć interfejs?",
+    "accept": "Akceptuj",
+    "cancel": "Anuluj"
+  },
+  "toasterMessage": "Ustawienia Isonomii zostały zresetowane.",
+  "profile": {
+    "title": "Profile",
+    "motorImpaired": "Osoby z ograniczeniami ruchowymi",
+    "blind": "Niewidomi",
+    "colorBlind": "Daltonizm",
+    "dyslexia": "Dysleksja",
+    "visuallyImpaired": "Osoby niedowidzące",
+    "cognitiveLearning": "Osoby z problemami poznawczymi i uczenia się",
+    "seizureEpileptic": "Osoby z padaczką",
+    "adhd": "ADHD"
+  },
+  "content": {
+    "title": "Treść",
+    "showTooltips": "Pokaż podpowiedzi",
+    "fontSize": "Rozmiar czcionki",
+    "letterSpacing": "Odstępy między literami",
+    "textAlign": "Wyrównanie tekstu",
+    "lineHeight": "Wysokość linii",
+    "underlineTitles": "Podkreśl tytuły",
+    "underlineLinks": "Podkreśl linki",
+    "zoomScreen": "Powiększ ekran",
+    "readingLine": "Linia do czytania",
+    "dyslexiaFonts": "Czcionki dla osób z dysleksją",
+    "readableFont": "Czytelna czcionka",
+    "keyboardNav": "Nawigacja klawiaturą",
+    "leftAlign": "Wyrównaj do lewej",
+    "centerAlign": "Wyrównaj do środka",
+    "rightAlign": "Wyrównaj do prawej",
+    "justifyAlign": "Justify align",
+    "readingMask": "Maska do czytania"
+  },
+  "color": {
+    "title": "Kolor",
+    "invertColors": "Zmień kolory",
+    "darkContrast": "Ciemny kontrast",
+    "lightContrast": "Jasny kontrast",
+    "saturation": "Nasycenie",
+    "lowSaturation": "Niskie nasycenie",
+    "highSaturation": "Wysokie nasycenie",
+    "desaturate": "Zmniejsz nasycenie",
+    "brightness": "Jasność",
+    "lowBrightness": "Niska jasność",
+    "mediumBrightness": "Średnia jasność",
+    "highBrightness": "Wysoka jasność"
+  },
+  "colorsSettings": {
+    "textColor": "Kolor tekstu",
+    "titleColor": "Kolor tytułu",
+    "backgroundColor": "Kolor tła"
+  },
+  "orientation": {
+    "title": "Orientacja",
+    "bigCursor": "Duży kursor",
+    "bigWhiteCursor": "Duży biały kursor",
+    "bigBlackCursor": "Duży czarny kursor",
+    "textToSpeech": "Tekst na mowę",
+    "normal": "Normalne",
+    "slow": "Wolne",
+    "fast": "Szybkie",
+    "hideImage": "Ukryj obraz",
+    "muteSounds": "Wycisz dźwięki",
+    "pauseAnimations": "Pauza w animacjach",
+    "highlightHover": "Podświetl przy najechaniu",
+    "readMode": "Tryb czytania",
+    "highlightFocus": "Podświetl fokus",
+    "voiceNavigation": "Nawigacja głosowa"
+  },
+  "linkNavigator": {
+    "title": "Link",
+    "links": [
+      "Wybierz link, aby przejść",
+      "Pomiń do treści",
+      "Strona główna",
+      "Katalog",
+      "Kontakt",
+      "Zaloguj się",
+      "Koszyk",
+      "Wszystkie płeć UNEEK II Convertible | Czarny/Zielony"
+    ]
+  },
+  "footer": {
+    "statement": "Oświadczenie",
+    "resetSettings": "Zresetuj ustawienia",
+    "poweredBy": "Zasilane przez Isonomy"
+  }
+}
