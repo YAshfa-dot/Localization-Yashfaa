@@ -1,0 +1,108 @@
+{
+  "statementModel": {
+      "title": "İsonomi Açıklaması",
+      "complianceStatus": "Uyumluluk durumu",
+      "complianceText1": "İnternet'in herkese açık ve erişilebilir olması gerektiğine inanıyoruz ve yeteneklerine bakılmaksızın en geniş kitleye açık bir web sitesi sunmak için çalışıyoruz.",
+      "complianceText2": "Bunu başarmak için, Dünya Çapında Ağ Konsörsümü'nün (W3C) Web İçerik Erişilebilirlik Yönergeleri 2.1 (WCAG 2.1) AA seviyesinde olduğu kadar sıkı bir şekilde uymak için çabalıyoruz. Bu yönergeler, geniş bir engelli yelpazesine sahip insanlar için web içeriğinin nasıl erişilebilir hale getirileceğini açıklar. Bu yönergelere uyulmak, bizimizi görevimizi yerine getirmek için, web sitesinin körler, motor engelli olanlar, görme engelli olanlar, bilişsel engelli olanlar ve daha fazlası için erişilebilir olduğundan emin olmamıza yardımcı olur.",
+      "complianceText3": "Bu web sitesi, her zaman olduğu kadar erişilebilir olması için çeşitli teknolojiler kullanır. Özel engellilere sahip insanların kendi kişisel ihtiyaçlarına göre web sitesinin kullanıcı arayüzünü (UI) ayarlayıp tasarlayabilecekleri bir erişilebilirlik arayüzü kullanıyoruz.",
+      "complianceText4": "Bunun yanı sıra, web sitesi arka planda çalışan ve erişilebilirlik seviyesini sürekli olarak optimize eden bir yapay zeka tabanlı uygulamayı kullanıyor. Bu uygulama, kör kullanıcılar tarafından kullanılan ekran okuyucular ve motor engelli bireyler tarafından kullanılan klavye işlevleri için web sitesinin HTML'ini onarır, işlevselliğini ve davranışını uyarlar.",
+      "complianceText5": "Web sitesinin sahibi ile iletişime geçmek istiyorsanız, web sitesinin formunu kullanın",
+      "ariaAttributes": "Web sitemiz, ARIA özellikleri (Erişilebilir Zengin İnternet Uygulamaları) tekniğini, çeşitli davranış değişiklikleriyle birlikte kullanarak, ekran okuyucusu kullanarak web sitemizi ziyaret eden kör kullanıcıların web sitesinin işlevlerini okuyup, anlayıp ve keyifle çıkarabileceklerini garanti ediyor. Bir ekran okuyucusu kullanan bir kullanıcı sizin web sitesinize girdiğinde, Ekran Okuyucu Profili'ne girmeleri için hemen bir ipucu alırlar ve web sitenizi etkin bir şekilde gözden geçirebilir ve işletmelerini yapabilirler. İşte web sitemiz bazı en önemli ekran okuyucu gereksinimlerini nasıl karşıladığı:",
+      "screenReaderOptimization": "Ekran okuyucusu optimizasyonu:",
+      "screenReaderText": "Web sitesinin bileşenlerini yukarıdan aşağıya doğru öğrenen bir süreç yürütüyoruz, web sitesini güncelleyerek sürekli uyumu garanti etmek için. Bu süreçte, ARIA özellikleri seti kullanarak ekran okuyuculara anlamlı veriler sağlıyoruz. Örneğin, doğru form etiketleri; etkin ikonlar için açıklamalar (sosyal medya ikonları, arama ikonları, sepet ikonları vb.); form girdileri için doğrulama rehberliği; butonlar, menüler, modal diyaloglar (açılır pencereler) ve diğerleri gibi öğelerin rolleri sağlıyoruz. Ayrıca, arka plan süreci web sitesinin tüm resimlerini tarar. Açıklanmayan resimler için bir ALT (alternatif metin) etiketi olarak, resimlerdeki nesnelerin tanınmasına dayalı doğru ve anlamlı bir açıklama sağlar. Ayrıca, resim içindeki metinleri bir Optik Karakter Tanıma (OCR) teknolojisi kullanarak çıkarır. Ekran okuyucu ayarlarını her zaman açmak için kullanıcıların yapması gereken tek şey Alt+1 tuş kombinasyonunu bastırmaktır. Ekran okuyucu kullanıcıları da web sitesine girdiklerinde ekran okuyucu modunu açmak için otomatik duyurular alırlar. Bu ayarlamalar, JAWS, NVDA, VoiceOver ve TalkBack gibi popüler ekran okuyucuları ile uyumludur.",
+      "keyboardNavigationOptimization": "Klavye navigasyon optimizasyonu:",
+      "keyboardNavigationText": "Arka plan süreci ayrıca web sitesinin HTML'ini ayarlar ve JavaScript kodu kullanarak çeşitli davranışlar ekler, böylece web sitesinin klavye ile işletilebilir hale gelir. Bu, Tab ve Shift+Tab tuşlarını kullanarak web sitesinde gezinme, ok tuşlarıyla açılır menüleri işletme, onları Esc ile kapatma, Enter tuşu kullanarak butonları ve bağlantıları tetikleme, ok tuşlarıyla radyo düğmeleri ve onay kutuları arasında gezinme ve onları boşluk tuşu veya Enter tuşu kullanarak doldurma yeteneğini içerir. Ayrıca, klavye kullanıcıları her zaman Alt+2'ye tıklayarak veya klavye ile gezindiğinde web sitesinin ilk öğesi olarak içerik atlama menülerini bulabilirler. Arka plan süreci ayrıca, ortaya çıktığında onlara doğru klavye odaklarını taşıyarak tetiklenen açılır pencereleri de işler ve odakların sürüklemesine izin vermez. Kullanıcılar ayrıca, menüler ('M'), başlıklar ('H'), formlar ('F'), butonlar ('B') ve grafikler ('G') gibi kısayolları kullanarak belirli öğelere atlayabilir."
+  },
+  "interfaceModel": {
+      "title": "Erişilebilirlik arayüzünü gizlemek mi istiyorsunuz?",
+      "description": "Dikkat: Erişilebilirlik arayüzünü gizlemeyi seçerseniz, geçmiş tarihçenizi ve verilerini temizlemedikçe tekrar göremeyeceksiniz. Arayüzü gizlemek istediğinizden emin misiniz?",
+      "accept": "Kabul et",
+      "cancel": "İptal"
+  },
+  "toasterMessage": "İsonomi ayarları sıfırlandı.",
+  "profile": {
+      "title": "Profiller",
+      "motorImpaired": "Motor Engelli",
+      "blind": "Kör",
+      "colorBlind": "Renk Körü",
+      "dyslexia": "Disleksi",
+      "visuallyImpaired": "Görme Engelli",
+      "cognitiveLearning": "Bilişsel ve Öğrenme",
+      "seizureEpileptic": "Nöbet ve Epilepsi",
+      "adhd": "DEHB"
+  },
+  "content": {
+      "title": "İçerik",
+      "showTooltips": "İpucu Göster",
+      "fontSize": "Yazı Boyutu",
+      "letterSpacing": "Harf Aralığı",
+      "textAlign": "Metin Hizalama",
+      "lineHeight": "Satır Yüksekliği",
+      "underlineTitles": "Başlıkların Altını Çiz",
+      "underlineLinks": "Bağlantıların Altını Çiz",
+      "zoomScreen": "Ekranı Yakınlaştır",
+      "readingLine": "Okuma Çizgisi",
+      "dyslexiaFonts": "Disleksi Yazı Tipleri",
+      "readableFont": "Okunabilir Yazı Tipi",
+      "keyboardNav": "Klavye Navigasyonu",
+      "leftAlign": "Sola Hizala",
+      "centerAlign": "Ortala",
+      "rightAlign": "Sağa Hizala",
+      "justifyAlign": "Yasla",
+      "readingMask": "Okuma Maskesi"
+  },
+  "color": {
+      "title": "Renk",
+      "invertColors": "Renkleri Ters Çevir",
+      "darkContrast": "Koyu Kontrast",
+      "lightContrast": "Açık Kontrast",
+      "saturation": "Doygunluk",
+      "lowSaturation": "Düşük Doygunluk",
+      "highSaturation": "Yüksek Doygunluk",
+      "desaturate": "Rengi Azalt",
+      "brightness": "Parlaklık",
+      "lowBrightness": "Düşük Parlaklık",
+      "mediumBrightness": "Orta Parlaklık",
+      "highBrightness": "Yüksek Parlaklık"
+  },
+  "colorsSettings": {
+      "textColor": "Metin Rengi",
+      "titleColor": "Başlık Rengi",
+      "backgroundColor": "Arka Plan Rengi"
+  },
+  "orientation": {
+      "title": "Yönlendirme",
+      "bigCursor": "Büyük İmleç",
+      "bigWhiteCursor": "Büyük Beyaz İmleç",
+      "bigBlackCursor": "Büyük Siyah İmleç",
+      "textToSpeech": "Metin Konuşma",
+      "normal": "Normal",
+      "slow": "Yavaş",
+      "fast": "Hızlı",
+      "hideImage": "Görseli Gizle",
+      "muteSounds": "Sesleri Kapat",
+      "pauseAnimations": "Animasyonları Durdur",
+      "highlightHover": "Gezinmeyi Vurgula",
+      "readMode": "Okuma Modu",
+      "highlightFocus": "Odağı Vurgula",
+      "voiceNavigation": "Sesli Navigasyon"
+  },
+  "linkNavigator": {
+      "title": "Bağlantı",
+      "links": [
+          "Gezinmek için bir bağlantı seçin",
+          "İçeriği atla",
+          "Ana Sayfa",
+          "Katalog",
+          "İletişim",
+          "Giriş Yap",
+          "Sepet",
+          "Tüm Cinsiyetler UNEEK II Dönüştürülebilir | Siyah/Jolly Green"
+      ]
+  },
+  "footer": {
+      "statement": "Açıklama",
+      "resetSettings": "Ayarları Sıfırla",
+      "poweredBy": "İsonomi Tarafından Desteklenmektedir"
+  }
+}
