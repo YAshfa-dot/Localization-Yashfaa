@@ -1,0 +1,108 @@
+{
+  "statementModel": {
+    "title": "伊索諾米聲明",
+    "complianceStatus": "遵從狀態",
+    "complianceText1": "我們堅信互聯網應該對所有人開放並且可訪問，並且致力於提供一個對最廣泛可能受眾開放的網站，無論能力如何。",
+    "complianceText2": "為了實現這一點，我們努力嚴格遵守世界廣泛網路聯盟（W3C）網頁內容可訪問性指南2.1（WCAG 2.1）的AA級別。這些指南解釋了如何使網頁內容對患有各種殘疾的人可訪問。遵守這些指南幫助我們確保網站對盲人、患有運動障礙、視覺障礙、認知障礙等人可訪問。",
+    "complianceText3": "這個網站利用各種技術，旨在使其在所有時間內尽可能地可訪問。我們使用一個可訪問性介面，使具有特定殘疾的人能夠調整網站的用戶界面（UI）並根據其個人需求設計。",
+    "complianceText4": "此外，該網站使用一個基於AI的應用程序，該應用程序在後台運行並不斷優化其可訪問性級別。該應用程序修復網站的HTML，適應盲人使用的屏幕閱讀器和患有運動障礙的個人使用的鍵盤功能。",
+    "complianceText5": "如果您希望聯繫網站的所有者，請使用網站的表單",
+    "ariaAttributes": "我們的網站實施ARIA屬性（可訪問的豐富互聯網應用程序）技術，並搭配各種行為變更，以確保使用屏幕閱讀器瀏覽的盲人用戶能夠閱讀、理解和享受網站的功能。當使用屏幕閱讀器的用戶進入您的網站時，他們會立即收到提示進入屏幕閱讀器配置文件，以便他們能夠有效地瀏覽和操作您的網站。以下是我們的網站如何涵蓋一些最重要的屏幕閱讀器要求：",
+    "screenReaderOptimization": "屏幕閱讀器優化：",
+    "screenReaderText": "我們運行一個從上到下學習網站組件的過程，以確保在更新網站時保持持續遵從。在此過程中，我們使用ARIA屬性集為屏幕閱讀器提供有意義的數據。例如，我們提供準確的表單標籤；可操作圖標的描述（社交媒體圖標、搜索圖標、購物車圖標等）；表單輸入的驗證指導；元素角色如按鈕、菜單、模態對話框（彈出框）等。此外，後台過程掃描網站的所有圖像。它提供基於圖像物體識別的準確且有意義的描述作為未描述圖像的ALT（替代文本）標籤。它還將使用光學字符識別（OCR）技術從圖像中提取嵌入的文本。要在任何時候打開屏幕閱讀器調整，用戶只需按Alt+1鍵組合。屏幕閱讀器用戶還會在進入網站時收到自動公告，以打開屏幕閱讀器模式。這些調整與JAWS、NVDA、VoiceOver和TalkBack等流行的屏幕閱讀器兼容。",
+    "keyboardNavigationOptimization": "鍵盤導航優化：",
+    "keyboardNavigationText": "後台過程還調整網站的HTML並添加各種行為使用JavaScript代碼，使網站可通過鍵盤操作。這包括使用Tab和Shift+Tab鍵導航網站，使用箭頭鍵操作下拉菜單，使用Esc關閉它們，使用Enter鍵觸發按鈕和鏈接，使用箭頭鍵在單選按鈕和複選框元素之間導航，並使用空格鍵或Enter鍵填充它們。此外，鍵盤用戶還會發現內容跳過菜單在任何時候點擊Alt+2，或作為網站的第一個元素，同時使用鍵盤導航。後台過程還處理觸發的彈出窗口，通過在它們出現時將鍵盤焦點移動到它們，而不允許焦點偏離。用戶還可以使用快捷方式如“M”（菜單）、“H”（標題）、“F”（表單）、“B”（按鈕）和“G”（圖形）跳轉到特定元素。"
+  },
+  "interfaceModel": {
+    "title": "隱藏可訪問性介面？",
+    "description": "請注意：如果您選擇隱藏可訪問性介面，則無法再次看到它，除非您清除瀏覽歷史記錄和數據。您確定要隱藏介面嗎？",
+    "accept": "接受",
+    "cancel": "取消"
+  },
+  "toasterMessage": "伊索諾米設置已重置。",
+  "profile": {
+    "title": "配置文件",
+    "motorImpaired": "運動功能障礙",
+    "blind": "盲人",
+    "colorBlind": "色盲",
+    "dyslexia": "閱讀障礙",
+    "visuallyImpaired": "視力障礙",
+    "cognitiveLearning": "認知和學習",
+    "seizureEpileptic": "癲癇發作",
+    "adhd": "多動症"
+  },
+  "content": {
+    "title": "內容",
+    "showTooltips": "顯示工具提示",
+    "fontSize": "字體大小",
+    "letterSpacing": "字母間距",
+    "textAlign": "文本對齊",
+    "lineHeight": "行高",
+    "underlineTitles": "標題下劃線",
+    "underlineLinks": "鏈接下劃線",
+    "zoomScreen": "放大屏幕",
+    "readingLine": "閱讀線",
+    "dyslexiaFonts": "閱讀障礙字體",
+    "readableFont": "可讀字體",
+    "keyboardNav": "鍵盤導航",
+    "leftAlign": "左對齊",
+    "centerAlign": "居中對齊",
+    "rightAlign": "右對齊",
+    "justifyAlign": "兩端對齊",
+    "readingMask": "閱讀遮罩"
+  },
+  "color": {
+    "title": "顏色",
+    "invertColors": "反轉顏色",
+    "darkContrast": "深色對比",
+    "lightContrast": "淺色對比",
+    "saturation": "飽和度",
+    "lowSaturation": "低飽和度",
+    "highSaturation": "高飽和度",
+    "desaturate": "去色",
+    "brightness": "亮度",
+    "lowBrightness": "低亮度",
+    "mediumBrightness": "中等亮度",
+    "highBrightness": "高亮度"
+  },
+  "colorsSettings": {
+    "textColor": "文字顏色",
+    "titleColor": "標題顏色",
+    "backgroundColor": "背景顏色"
+  },
+  "orientation": {
+    "title": "方向",
+    "bigCursor": "大光標",
+    "bigWhiteCursor": "大白光標",
+    "bigBlackCursor": "大黑光標",
+    "textToSpeech": "文本轉語音",
+    "normal": "正常",
+    "slow": "慢速",
+    "fast": "快速",
+    "hideImage": "隱藏圖片",
+    "muteSounds": "靜音",
+    "pauseAnimations": "暫停動畫",
+    "highlightHover": "高亮懸停",
+    "readMode": "閱讀模式",
+    "highlightFocus": "高亮焦點",
+    "voiceNavigation": "語音導航"
+  },
+  "linkNavigator": {
+    "title": "鏈接",
+    "links": [
+      "選擇一個鏈接進行導航",
+      "跳到內容",
+      "主頁",
+      "目錄",
+      "聯系",
+      "登錄",
+      "購物車",
+      "所有性別UNEEK II Convertible | 黑色/歡樂綠"
+    ]
+  },
+  "footer": {
+    "statement": "聲明",
+    "resetSettings": "重置設置",
+    "poweredBy": "由伊索諾米提供支持"
+  }
+}
