@@ -1,0 +1,108 @@
+{
+  "statementModel": {
+      "title": "Isonomie-Erklärung",
+      "complianceStatus": "Einhaltungsstatus",
+      "complianceText1": "Wir glauben fest daran, dass das Internet für jeden verfügbar und zugänglich sein sollte, und sind bestrebt, eine Website bereitzustellen, die für das breitestmögliche Publikum zugänglich ist, unabhängig von den Fähigkeiten.",
+      "complianceText2": "Um dies zu erreichen, bemühen wir uns, die Richtlinien des World Wide Web Consortium (W3C) für barrierefreie Webinhalte (WCAG) 2.1 auf der Stufe AA so streng wie möglich einzuhalten. Diese Richtlinien erklären, wie Webinhalte für Menschen mit einer Vielzahl von Behinderungen zugänglich gemacht werden können. Die Einhaltung dieser Richtlinien hilft uns sicherzustellen, dass die Website für blinde Menschen, Menschen mit motorischen Beeinträchtigungen, Sehbehinderungen, kognitiven Behinderungen und mehr zugänglich ist.",
+      "complianceText3": "Diese Website nutzt verschiedene Technologien, um sie zu jeder Zeit so zugänglich wie möglich zu machen. Wir nutzen eine Barrierefreiheitsschnittstelle, die es Personen mit spezifischen Behinderungen ermöglicht, die Benutzeroberfläche (UI) der Website an ihre persönlichen Bedürfnisse anzupassen und zu gestalten.",
+      "complianceText4": "Darüber hinaus nutzt die Website eine KI-basierte Anwendung, die im Hintergrund läuft und den Barrierefreiheitsgrad konstant optimiert. Diese Anwendung behebt das HTML der Website, passt ihre Funktionalität und ihr Verhalten für Screenreader an, die von blinden Nutzern verwendet werden, und für Tastaturfunktionen, die von Personen mit motorischen Beeinträchtigungen verwendet werden.",
+      "complianceText5": "Wenn Sie den Website-Besitzer kontaktieren möchten, verwenden Sie bitte das Website-Formular",
+      "ariaAttributes": "Unsere Website implementiert die ARIA-Attribute (Accessible Rich Internet Applications) Technik zusammen mit verschiedenen Verhaltensänderungen, um sicherzustellen, dass blinde Nutzer, die mit Screenreadern surfen, die Funktionen der Website lesen, verstehen und genießen können. Sobald ein Nutzer mit einem Screenreader auf Ihre Seite kommt, erhält er sofort eine Aufforderung, das Screenreader-Profil zu aktivieren, damit er Ihre Seite effektiv durchsuchen und bedienen kann. Hier wird erläutert, wie unsere Website einige der wichtigsten Screenreader-Anforderungen abdeckt:",
+      "screenReaderOptimization": "Screenreader-Optimierung:",
+      "screenReaderText": "Wir führen einen Prozess durch, der die Komponenten der Website von oben nach unten lernt, um die fortlaufende Einhaltung auch bei der Aktualisierung der Website sicherzustellen. In diesem Prozess versorgen wir Screenreader mit sinnvollen Daten unter Verwendung des ARIA-Satzes von Attributen. Zum Beispiel bieten wir genaue Formularbeschriftungen; Beschreibungen für ausführbare Symbole (Symbole für soziale Medien, Suchsymbole, Wagensymbole usw.); Validierungsanleitung für Formulareingaben; Elementrollen wie Schaltflächen, Menüs, modale Dialoge (Popups) und andere. Darüber hinaus scannt der Hintergrundprozess alle Bilder der Website. Es bietet eine genaue und sinnvolle bilderkennungsbasierte Beschreibung als ALT-Tag (Alternativtext) für Bilder, die nicht beschrieben sind. Es extrahiert auch Texte, die in das Bild eingebettet sind, unter Verwendung einer OCR-Technologie (Optical Character Recognition). Um Screenreader-Anpassungen jederzeit zu aktivieren, müssen die Benutzer nur die Alt+1-Tastenkombination drücken. Screenreader-Benutzer erhalten auch automatische Ankündigungen, um den Screenreader-Modus einzuschalten, sobald sie die Website betreten. Diese Anpassungen sind mit beliebten Screenreadern wie JAWS, NVDA, VoiceOver und TalkBack kompatibel.",
+      "keyboardNavigationOptimization": "Tastaturnavigationsoptimierung:",
+      "keyboardNavigationText": "Der Hintergrundprozess passt auch das HTML der Website an und fügt verschiedene Verhaltensweisen unter Verwendung von JavaScript-Code hinzu, um die Website per Tastatur bedienbar zu machen. Dazu gehört die Möglichkeit, die Website mit den Tab- und Umschalt+Tab-Tasten zu navigieren, Dropdowns mit den Pfeiltasten zu bedienen, sie mit Esc zu schließen, Schaltflächen und Links mit der Eingabetaste auszulösen, zwischen Radio- und Kontrollkästchen-Elementen mit den Pfeiltasten zu navigieren und sie mit der Leertaste oder der Eingabetaste auszufüllen. Darüber hinaus finden Tastaturbenutzer Inhaltsüberspringungsmenüs, die jederzeit verfügbar sind, indem sie auf Alt+2 klicken oder als erstes Element der Seite, während sie mit der Tastatur navigieren. Der Hintergrundprozess behandelt auch ausgelöste Popups, indem er den Tastaturfokus auf sie verschiebt, sobald sie erscheinen, und nicht zulässt, dass der Fokus abdriftet. Benutzer können auch Abkürzungen wie „M“ (Menüs), „H“ (Überschriften), „F“ (Formulare), „B“ (Schaltflächen) und „G“ (Grafiken) verwenden, um zu spezifischen Elementen zu springen."
+  },
+  "interfaceModel": {
+      "title": "Barrierefreiheitsschnittstelle ausblenden?",
+      "description": "Bitte beachten Sie: Wenn Sie sich entscheiden, die Barrierefreiheitsschnittstelle auszublenden, können Sie sie nicht mehr sehen, es sei denn, Sie löschen Ihren Browserverlauf und Ihre Daten. Sind Sie sicher, dass Sie die Schnittstelle ausblenden möchten?",
+      "accept": "Akzeptieren",
+      "cancel": "Abbrechen"
+  },
+  "toasterMessage": "Isonomy-Einstellungen wurden zurückgesetzt.",
+  "profile": {
+      "title": "Profile",
+      "motorImpaired": "Motorisch Beeinträchtigt",
+      "blind": "Blind",
+      "colorBlind": "Farbenblind",
+      "dyslexia": "Dyslexie",
+      "visuallyImpaired": "Sehbehinderte",
+      "cognitiveLearning": "Kognitive & Lernbehinderungen",
+      "seizureEpileptic": "Krampfanfälle & Epileptisch",
+      "adhd": "ADHS"
+  },
+  "content": {
+      "title": "Inhalt",
+      "showTooltips": "Tooltips anzeigen",
+      "fontSize": "Schriftgröße",
+      "letterSpacing": "Buchstabenabstand",
+      "textAlign": "Textausrichtung",
+      "lineHeight": "Zeilenhöhe",
+      "underlineTitles": "Überschriften unterstreichen",
+      "underlineLinks": "Links unterstreichen",
+      "zoomScreen": "Bildschirm zoomen",
+      "readingLine": "Leselinie",
+      "dyslexiaFonts": "Dyslexie-Schriften",
+      "readableFont": "Lesbare Schriftart",
+      "keyboardNav": "Tastaturnavigation",
+      "leftAlign": "Links ausrichten",
+      "centerAlign": "Zentriert ausrichten",
+      "rightAlign": "Rechts ausrichten",
+      "justifyAlign": "Blocksatz",
+      "readingMask": "Lesemaske"
+  },
+  "color": {
+      "title": "Farbe",
+      "invertColors": "Farben umkehren",
+      "darkContrast": "Dunkler Kontrast",
+      "lightContrast": "Heller Kontrast",
+      "saturation": "Sättigung",
+      "lowSaturation": "Geringe Sättigung",
+      "highSaturation": "Hohe Sättigung",
+      "desaturate": "Entsättigen",
+      "brightness": "Helligkeit",
+      "lowBrightness": "Geringe Helligkeit",
+      "mediumBrightness": "Mittlere Helligkeit",
+      "highBrightness": "Hohe Helligkeit"
+  },
+  "colorsSettings": {
+      "textColor": "Textfarbe",
+      "titleColor": "Titel Farbe",
+      "backgroundColor": "Hintergrundfarbe"
+  },
+  "orientation": {
+      "title": "Orientierung",
+      "bigCursor": "Großer Cursor",
+      "bigWhiteCursor": "Großer weißer Cursor",
+      "bigBlackCursor": "Großer schwarzer Cursor",
+      "textToSpeech": "Text zu Sprache",
+      "normal": "Normal",
+      "slow": "Langsam",
+      "fast": "Schnell",
+      "hideImage": "Bild ausblenden",
+      "muteSounds": "Töne stummschalten",
+      "pauseAnimations": "Animationen pausieren",
+      "highlightHover": "Hover hervorheben",
+      "readMode": "Lese-Modus",
+      "highlightFocus": "Fokus hervorheben",
+      "voiceNavigation": "Sprachnavigation"
+  },
+  "linkNavigator": {
+      "title": "Link",
+      "links": [
+          "Wählen Sie einen Link zur Navigation",
+          "Zum Inhalt springen",
+          "Startseite",
+          "Katalog",
+          "Kontakt",
+          "Einloggen",
+          "Warenkorb",
+          "Alle Geschlechter UNEEK II Convertible | Schwarz/Jolly Green"
+      ]
+  },
+  "footer": {
+      "statement": "Erklärung",
+      "resetSettings": "Einstellungen zurücksetzen",
+      "poweredBy": "Powered by Isonomy"
+  }
+}
