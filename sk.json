@@ -1,0 +1,108 @@
+{
+  "statementModel": {
+      "title": "Vyhlásenie Isonomie",
+      "complianceStatus": "Stav dodržania",
+      "complianceText1": "Pevne veríme, že internet by mal byť dostupný a prístupný pre každého a zaviazujeme sa poskytnúť webové stránky, ktoré budú prístupné pre najširšiu možnú verejnosť bez ohľadu na schopnosti.",
+      "complianceText2": "Na dosiahnutie tohto cieľa sa snažíme dodržať pokyny pre prístupnosť webového obsahu (WCAG) 2.1 na úrovni AA od World Wide Web Consortium (W3C) tak čo možno presne. Tieto pokyny vysvetlia, ako urobiť webový obsah prístupným pre ľudí s širokou škálou zdravotných postihov. Dodržiavanie týchto pokynov nám pomáha zabezpečiť, aby bola webová stránka prístupná pre nevidomých ľudí, ľudí s pohybovými postihmi, vizuálnymi postihmi, kognitívnymi postihmi a ďalšími.",
+      "complianceText3": "Táto webová stránka využíva rôzne technológie, ktorých cieľom je urobiť ju čo najviac prístupnou v každom čase. Používame rozhranie prístupnosti, ktoré umožňuje ľuďom so špecifickými postihmi upraviť používateľské rozhranie (UI) webu a navrhnúť ho podľa ich osobných potrieb.",
+      "complianceText4": "Okrem toho webová stránka používa aplikáciu založenú na umelej inteligencii, ktorá beží v pozadí a neustále optimalizuje jej úroveň prístupnosti. Táto aplikácia opravuje HTML webu, prispôsobuje jeho funkčnosť a správanie pre čítače obrazovky používané nevidomými používateľmi a pre klávesové funkcie používané jednotlivcami s pohybovými postihmi.",
+      "complianceText5": "Ak chcete kontaktovať majiteľa webu, použite formulár webu",
+      "ariaAttributes": "Naša webová stránka implementuje techniku atribútov ARIA (Accessible Rich Internet Applications) spolu s rôznymi zmenami správania, aby zabezpečila, že nevidomí používatelia, ktorí navštevujú webovú stránku s čítačom obrazovky, dokážu čítať, chápať a užívať funkcie webu. Čím skôr nevidomý používateľ vstúpi na vašu stránku, dostane okamžite výzvu k vstupu do profilu čítača obrazovky, aby mohol účinne prechádzať a používať vašu stránku. Tu je vysvetlené, ako naša webová stránka spĺňa niektoré z najdôležitejších požiadaviek čítačov obrazovky:",
+      "screenReaderOptimization": "Optimalizácia čítača obrazovky:",
+      "screenReaderText": "Prevádza sa proces, ktorý sa učí komponenty webu zhora nadol, aby bolo zabezpečené nepretržité dodržiavanie aj pri aktualizácii webu. V tomto procese poskytujeme čítačom obrazovky významné údaje použitím sady atribútov ARIA. Napríklad poskytujeme presné formulárové štítky; popisy pre vykonateľné ikony (ikony sociálnych médií, vyhľadávacie ikony, ikony nákupného košíka atď.) a návod na overovanie vstupov do formulárov; úlohy prvkov ako sú tlačidlá, ponuky, modálne dialógové okná (vyskakovacie okná) a iné. Okrem toho spustený proces skenuje všetky obrázky webu. Poskytuje presnú a významnú popis na základe rozpoznávania objektov v obrázkoch ako tag ALT (alternatívny text) pre obrázky, ktoré nie sú opísané. Vyberie aj texty vložené do obrázka použitím technológie optického rozpoznávania znakov (OCR). Na zapnutie nastavení čítača obrazovky v ktoromkoľvek čase používatelia postačí len stlačiť kombináciu klávesov Alt+1. Používatelia čítačov obrazovky dostávajú aj automatické oznámenia na zapnutie režimu čítača obrazovky, čo hneď ako vstúpia na webovú stránku. Tieto nastavenia sú kompatibilné s obľúbenými čítačmi obrazovky ako sú JAWS, NVDA, VoiceOver a TalkBack.",
+      "keyboardNavigationOptimization": "Optimalizácia klávesovej navigácie:",
+      "keyboardNavigationText": "Spustený proces tiež upravuje HTML webu a pridáva rôzne správanie použitím JavaScript kódu, aby bola webová stránka ovládateľná klávesnicou. To zahŕňa schopnosť navigovať na webovej stránke použitím klávesov Tab a Shift+Tab, ovládať rozbalovacie ponuky použitím šípkových klávesov, zatvoriť ich použitím klávesy Esc, spustiť tlačidlá a odkazy použitím klávesy Enter, navigovať medzi prvkami rozhlasovacích tlačidiel a zaškrtávacích políčok použitím šípkových klávesov a vyplniť ich použitím medzerníka alebo klávesy Enter. Okrem toho používatelia klávesnice nájdu ponuky pre preskakanie obsahu k dispozícii v každom čase kliknutím na Alt+2 alebo ako prvý prvok stránky počas navigácie klávesnicou. Spustený proces tiež riadi spustené vyskakovacie okná, presúvajúc klávesový zamer k nim, čo hneď ako sa zobrazia, a nedovolí zameru, aby sa rozptýlil. Používatelia môžu tiež používať skratky ako „M“ (ponuky), „H“ (nadpisy), „F“ (formuláre), „B“ (tlačidlá) a „G“ (grafika) na preskakanie na špecifické prvky."
+  },
+  "interfaceModel": {
+      "title": "Skryť rozhranie prístupnosti?",
+      "description": "Pozor: Ak sa rozhodnete skryť rozhranie prístupnosti, nevidíte ho už viac, kým si nevymažete históriu a dáta prehliadania. Ste na istote chcete skryť rozhranie?",
+      "accept": "Potvrdiť",
+      "cancel": "Zrušiť"
+  },
+  "toasterMessage": "Nastavenia Isonomie boli resetované.",
+  "profile": {
+      "title": "Profily",
+      "motorImpaired": "Pohybovo postihnutí",
+      "blind": "Nevidomí",
+      "colorBlind": "Farboslepí",
+      "dyslexia": "Dyslexia",
+      "visuallyImpaired": "Vizuálne postihnutí",
+      "cognitiveLearning": "Kognitívne a učenie",
+      "seizureEpileptic": "Záchvaty a epileptici",
+      "adhd": "ADHD"
+  },
+  "content": {
+      "title": "Obsah",
+      "showTooltips": "Zobraziť tipy",
+      "fontSize": "Veľkosť písma",
+      "letterSpacing": "Medzery medzi písmenami",
+      "textAlign": "Zarovnanie textu",
+      "lineHeight": "Výška riadku",
+      "underlineTitles": "Podčiarknuť nadpisy",
+      "underlineLinks": "Podčiarknuť odkazy",
+      "zoomScreen": "Priblížiť obrazovku",
+      "readingLine": "Čítacia čiara",
+      "dyslexiaFonts": "Písma pre dyslexiu",
+      "readableFont": "Čitateľné písmo",
+      "keyboardNav": "Klávesová navigácia",
+      "leftAlign": "Zarovnať vľavo",
+      "centerAlign": "Zarovnať na stred",
+      "rightAlign": "Zarovnať vpravo",
+      "justifyAlign": "Zarovnať na obe strany",
+      "readingMask": "Čítacia maska"
+  },
+  "color": {
+      "title": "Farba",
+      "invertColors": "Invertovať farby",
+      "darkContrast": "Tmavý kontrast",
+      "lightContrast": "Svetlý kontrast",
+      "saturation": "Saturácia",
+      "lowSaturation": "Nízka saturácia",
+      "highSaturation": "Vysoká saturácia",
+      "desaturate": "Desaturácia",
+      "brightness": "Jas",
+      "lowBrightness": "Nízky jas",
+      "mediumBrightness": "Stredný jas",
+      "highBrightness": "Vysoký jas"
+  },
+  "colorsSettings": {
+      "textColor": "Farba textu",
+      "titleColor": "Farba nadpisu",
+      "backgroundColor": "Farba pozadia"
+  },
+  "orientation": {
+      "title": "Orientácia",
+      "bigCursor": "Veľký kurzor",
+      "bigWhiteCursor": "Veľký biely kurzor",
+      "bigBlackCursor": "Veľký čierny kurzor",
+      "textToSpeech": "Text na reč",
+      "normal": "Normálne",
+      "slow": "Pomaly",
+      "fast": "Rýchlo",
+      "hideImage": "Skryť obrázok",
+      "muteSounds": "Stíšiť zvuky",
+      "pauseAnimations": "Pozastaviť animácie",
+      "highlightHover": "Zvýrazniť pri prechode",
+      "readMode": "Režim čítania",
+      "highlightFocus": "Zvýrazniť zaostrenie",
+      "voiceNavigation": "Hlasová navigácia"
+  },
+  "linkNavigator": {
+      "title": "Odkaz",
+      "links": [
+          "Vyberte odkaz na navigáciu",
+          "Preskočiť na obsah",
+          "Domov",
+          "Katalóg",
+          "Kontakt",
+          "Prihlásiť sa",
+          "Košík",
+          "Všetky pohlavia UNEEK II Convertible | Black/Jolly Green"
+      ]
+  },
+  "footer": {
+      "statement": "Vyhlásenie",
+      "resetSettings": "Resetovať nastavenia",
+      "poweredBy": "Poháňa Isonomy"
+  }
+}
