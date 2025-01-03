@@ -1,0 +1,110 @@
+{
+  "statementModel": {
+    "title": "Dichiarazione di Isonomia",
+    "complianceStatus": "Stato di conformità",
+    "complianceText1": "Crediamo fermamente che Internet debba essere disponibile e accessibile a chiunque e ci impegniamo a fornire un sito web accessibile al pubblico più ampio possibile, indipendentemente dalle capacità.",
+    "complianceText2": "Per raggiungere questo obiettivo, ci sforziamo di aderire il più rigorosamente possibile alle Linee guida per l'accessibilità dei contenuti Web (WCAG) 2.1 di livello AA del World Wide Web Consortium (W3C). Queste linee guida spiegano come rendere i contenuti web accessibili alle persone con una vasta gamma di disabilità. L'aderenza a queste linee guida ci aiuta a garantire che il sito web sia accessibile a persone cieche, persone con disabilità motorie, disabilità visive, disabilità cognitive e altro ancora.",
+    "complianceText3": "Questo sito web utilizza varie tecnologie destinate a renderlo il più accessibile possibile in ogni momento. Utilizziamo un'interfaccia di accessibilità che consente alle persone con disabilità specifiche di regolare l'interfaccia utente (UI) del sito web e di progettarla in base alle proprie esigenze personali.",
+    "complianceText4": "Inoltre, il sito web utilizza un'applicazione basata su IA che viene eseguita in background e ottimizza costantemente il suo livello di accessibilità. Questa applicazione rimedia l'HTML del sito web, adatta la sua funzionalità e il suo comportamento per i lettori di schermo utilizzati dagli utenti ciechi e per le funzioni di tastiera utilizzate dagli individui con disabilità motorie.",
+    "complianceText5": "Se desideri contattare il proprietario del sito web, utilizza il modulo del sito web.",
+    "ariaAttributes": "Il nostro sito web implementa la tecnica degli attributi ARIA (Accessible Rich Internet Applications), insieme a varie modifiche comportamentali, per garantire che gli utenti ciechi che visitano con lettori di schermo possano leggere, comprendere e apprezzare le funzionalità del sito web. Non appena un utente con un lettore di schermo entra nel tuo sito, riceve immediatamente un prompt per entrare nel Profilo del Lettore di Schermo in modo che possa navigare e operare il tuo sito in modo efficace. Ecco come il nostro sito web copre alcuni dei requisiti più importanti dei lettori di schermo:",
+    "screenReaderOptimization": "Ottimizzazione del lettore di schermo:",
+    "screenReaderText": "Eseguiamo un processo che apprende i componenti del sito web dall'alto verso il basso, per garantire la conformità continua anche durante l'aggiornamento del sito web. In questo processo, forniamo ai lettori di schermo dati significativi utilizzando il set di attributi ARIA. Ad esempio, forniamo etichette di modulo precise; descrizioni per icone azionabili (icone dei social media, icone di ricerca, icone del carrello, ecc.); guida alla convalida per gli input di modulo; ruoli di elementi come pulsanti, menu, finestre di dialogo modali (popup) e altri. Inoltre, il processo in background scansiona tutte le immagini del sito web. Fornisce una descrizione precisa e significativa basata sul riconoscimento degli oggetti nelle immagini come tag ALT (testo alternativo) per le immagini che non sono descritte. Estrae anche i testi integrati nelle immagini utilizzando una tecnologia di riconoscimento ottico dei caratteri (OCR). Per attivare gli aggiustamenti del lettore di schermo in qualsiasi momento, gli utenti devono semplicemente premere la combinazione di tasti Alt+1. Gli utenti dei lettori di schermo ricevono anche annunci automatici per attivare la modalità lettore di schermo appena entrano nel sito web. Questi aggiustamenti sono compatibili con lettori di schermo popolari come JAWS, NVDA, VoiceOver e TalkBack.",
+    "keyboardNavigationOptimization": "Ottimizzazione della navigazione con tastiera:",
+    "keyboardNavigationText": "Il processo in background regola anche l'HTML del sito web e aggiunge vari comportamenti utilizzando codice JavaScript per rendere il sito web utilizzabile tramite tastiera. Ciò include la possibilità di navigare nel sito web utilizzando i tasti Tab e Maiusc+Tab, utilizzare i menu a discesa con i tasti freccia, chiuderli con Esc, attivare i pulsanti e i link con il tasto Invio, navigare tra gli elementi radio e le caselle di controllo con i tasti freccia e compilarli con la barra spaziatrice o il tasto Invio. Inoltre, gli utenti della tastiera troveranno menu di salto ai contenuti disponibili in qualsiasi momento premendo Alt+2 o come primo elemento del sito durante la navigazione con la tastiera. Il processo in background gestisce anche i popup spostando il focus della tastiera su di essi appena appaiono, senza permettere al focus di andare altrove. Gli utenti possono anche utilizzare scorciatoie come 'M' (menu), 'H' (intestazioni), 'F' (form), 'B' (bottoni) e 'G' (grafici) per saltare a elementi specifici."
+  },
+  "interfaceModel": {
+    "title": "Nascondere l'interfaccia di accessibilità?",
+    "description": "Si prega di notare: se si sceglie di nascondere l'interfaccia di accessibilità, non sarà più possibile vederla a meno che non si cancelli la cronologia e i dati di navigazione. Sei sicuro di voler nascondere l'interfaccia?",
+    "accept": "Accetta",
+    "cancel": "Annulla"
+  },
+  "toasterMessage": "Le impostazioni di Isonomy sono state ripristinate.",
+  "profile": {
+    "title": "Profili",
+    "motorImpaired": "Disabilità Motorie",
+    "blind": "Cieco",
+    "colorBlind": "Daltonismo",
+    "dyslexia": "Dislessia",
+    "visuallyImpaired": "Disabilità Visiva",
+    "cognitiveLearning": "Cognitive e di Apprendimento",
+    "seizureEpileptic": "Epilettico e Convulsioni",
+    "adhd": "ADHD"
+  },
+  "content": {
+    "title": "Contenuto",
+    "showTooltips": "Mostra suggerimenti",
+    "fontSize": "Dimensione del carattere",
+    "letterSpacing": "Spaziatura tra le lettere",
+    "textAlign": "Allineamento del testo",
+    "lineHeight": "Altezza della linea",
+    "underlineTitles": "Sottolinea i titoli",
+    "underlineLinks": "Sottolinea i link",
+    "zoomScreen": "Zoom sullo schermo",
+    "readingLine": "Linea di lettura",
+    "dyslexiaFonts": "Caratteri per dislessia",
+    "readableFont": "Carattere leggibile",
+    "keyboardNav": "Navigazione da tastiera",
+    "leftAlign": "Allinea a sinistra",
+    "centerAlign": "Allinea al centro",
+    "rightAlign": "Allinea a destra",
+    "justifyAlign": "Giustifica",
+    "readingMask": "Maschera di lettura"
+  },
+  "color": {
+    "title": "Colore",
+    "invertColors": "Inverti i colori",
+    "darkContrast": "Contrasto scuro",
+    "lightContrast": "Contrasto chiaro",
+    "saturation": "Saturazione",
+    "lowSaturation": "Bassa saturazione",
+    "highSaturation": "Alta saturazione",
+    "desaturate": "Desaturare",
+    "brightness": "Luminosità",
+    "lowBrightness": "Bassa luminosità",
+    "mediumBrightness": "Luminosità media",
+    "highBrightness": "Alta luminosità"
+  },
+  "colorsSettings": {
+    "textColor": "Colore del testo",
+    "titleColor": "Colore del titolo",
+    "backgroundColor": "Colore di sfondo"
+  },
+  "orientation": {
+    "title": "Orientamento",
+    "bigCursor": "Cursore grande",
+    "bigWhiteCursor": "Cursore bianco grande",
+    "bigBlackCursor": "Cursore nero grande",
+    "textToSpeech": "Testo in voce",
+    "normal": "Normale",
+    "slow": "Lento",
+    "fast": "Veloce",
+    "hideImage": "Nascondi immagine",
+    "muteSounds": "Disattiva i suoni",
+    "pauseAnimations": "Pausa animazioni",
+    "highlightHover": "Evidenzia hover",
+    "readMode": "Modalità di lettura",
+    "highlightFocus": "Evidenzia il focus",
+    "voiceNavigation": "Navigazione vocale"
+  },
+  "linkNavigator": {
+    "title": "Link",
+    "links": [
+      "Seleziona un link per navigare",
+      "Vai al contenuto",
+      "Home",
+      "Catalogo",
+      "Contatti",
+      "Accedi",
+      "Carrello",
+      "Tutti i generi UNEEK II",
+      "Mappa",
+      "Ricerca"
+    ]
+  },
+  "footer": {
+    "statement": "Dichiarazione",
+    "resetSettings": "Ripristina impostazioni",
+    "poweredBy": "Sostenuto da Isonomy"
+  }
+}
