@@ -1,0 +1,108 @@
+{
+  "statementModel": {
+    "title": "Isonomie Verklaring",
+    "complianceStatus": "Nalevingsstatus",
+    "complianceText1": "Wij geloven stevig dat het internet beschikbaar en toegankelijk moet zijn voor iedereen en streven ernaar om een website te bieden die toegankelijk is voor het breedst mogelijke publiek, ongeacht de mogelijkheden.",
+    "complianceText2": "Om dit te realiseren, spannen we ons in om zo strikt mogelijk te voldoen aan de Richtlijnen voor de toegankelijkheid van webcontent (WCAG) 2.1 op niveau AA van het World Wide Web Consortium (W3C). Deze richtlijnen leggen uit hoe webcontent toegankelijk kan worden gemaakt voor mensen met een breed scala aan beperkingen. Het naleven van deze richtlijnen helpt ons ervoor te zorgen dat de website toegankelijk is voor blinde mensen, mensen met motorische beperkingen, visuele beperkingen, cognitieve beperkingen en meer.",
+    "complianceText3": "Deze website maakt gebruik van verschillende technologieën die ervoor moeten zorgen dat deze op elk moment zo toegankelijk mogelijk is. We gebruiken een toegankelijkheidsinterface die mensen met specifieke beperkingen in staat stelt om de gebruikersinterface (UI) van de website aan te passen en deze te ontwerpen naar hun persoonlijke behoeften.",
+    "complianceText4": "Daarboven gebruikt de website een op AI gebaseerde applicatie die op de achtergrond draait en constant het toegankelijkheidsniveau optimaliseert. Deze applicatie herstelt de HTML van de website, past de functionaliteit en het gedrag ervan aan voor schermlezers die worden gebruikt door blinde gebruikers en voor toetsenbordfuncties die worden gebruikt door individuen met motorische beperkingen.",
+    "complianceText5": "Als u contact wilt opnemen met de eigenaar van de website, gebruik dan het formulier van de website",
+    "ariaAttributes": "Onze website implementeert de ARIA-attributen (Accessible Rich Internet Applications) techniek, samen met diverse gedragsveranderingen, om te waarborgen dat blinde gebruikers die de website bezoeken met een schermlezer, de functies van de website kunnen lezen, begrijpen en genieten. Zodra een gebruiker met een schermlezer uw site betreedt, ontvangt deze onmiddellijk een prompt om het Schermlezersprofiel in te gaan zodat deze uw site effectief kan doorzoeken en bedienen. Hier wordt uitgelegd hoe onze website enkele van de belangrijkste schermlezereisen dekt:",
+    "screenReaderOptimization": "Schermlezersoptimalisatie:",
+    "screenReaderText": "We voeren een proces uit dat de componenten van de website van boven naar beneden leert, om doorlopende naleving te waarborgen, zelfs bij het bijwerken van de website. In dit proces voorzien we schermlezers van betekenisvolle gegevens met behulp van de set ARIA-attributen. Bijvoorbeeld, we bieden nauwkeurige formulierlabels; beschrijvingen voor uitvoerbare pictogrammen (pictogrammen voor sociale media, zoekpictogrammen, winkelwagentje pictogrammen, enz.); validatiebegeleiding voor formulierinvoer; rol van elementen zoals knoppen, menu's, modale dialoogvensters (pop-ups) en andere. Daarnaast scant de achtergrondproces alle afbeeldingen van de website. Het biedt een nauwkeurige en betekenisvolle beschrijving op basis van herkenning van objecten in afbeeldingen als een ALT-tag (alternatieve tekst) voor afbeeldingen die niet worden beschreven. Het zal ook teksten die in de afbeelding zijn ingesloten extraheren met behulp van een OCR-technologie (Optical Character Recognition). Om schermlezeraanpassingen op elk moment in te schakelen, hoeven gebruikers alleen de Alt+1-toetscombinatie in te drukken. Schermlezergebruikers ontvangen ook automatische aankondigingen om de schermlezermodus in te schakelen zodra ze de website betreden. Deze aanpassingen zijn compatibel met populaire schermlezers zoals JAWS, NVDA, VoiceOver en TalkBack.",
+    "keyboardNavigationOptimization": "Toetsenbordnavigatie-optimalisatie:",
+    "keyboardNavigationText": "De achtergrondproces past ook de HTML van de website aan en voegt diverse gedragingen toe met behulp van JavaScript-code om de website bedienbaar te maken met het toetsenbord. Dit omvat de mogelijkheid om de website te navigeren met de Tab- en Shift+Tab-toetsen, dropdowns te bedienen met de pijltjes, deze te sluiten met Esc, knoppen en links te activeren met de Entertoets, te navigeren tussen radioknoppen en selectievakjes met de pijltjes en deze in te vullen met de spatiebalk of Entertoets. Daarnaast vinden toetsenbordgebruikers inhoudsoverslaanmenu's die op elk moment beschikbaar zijn door op Alt+2 te klikken, of als het eerste element van de site terwijl ze navigeren met het toetsenbord. De achtergrondproces behandelt ook geactiveerde pop-ups door de toetsenbordfocus ernaartoe te verplaatsen zodra ze verschijnen, zonder dat de focus afdrijft. Gebruikers kunnen ook sneltoetsen zoals 'M' (menu's), 'H' (koppen), 'F' (formulieren), 'B' (knoppen) en 'G' (grafieken) gebruiken om naar specifieke elementen te springen."
+  },
+  "interfaceModel": {
+    "title": "Toegankelijkheidsinterface verbergen?",
+    "description": "Let op: als u kiest voor het verbergen van de toegankelijkheidsinterface, kunt u deze niet meer zien, tenzij u uw browsergeschiedenis en -gegevens wist. Weet u zeker dat u de interface wilt verbergen?",
+    "accept": "Accepteren",
+    "cancel": "Annuleren"
+  },
+  "toasterMessage": "Isonomy instellingen zijn opnieuw ingesteld.",
+  "profile": {
+    "title": "Profielen",
+    "motorImpaired": "Motorisch Beperkt",
+    "blind": "Blind",
+    "colorBlind": "Kleurenblind",
+    "dyslexia": "Dyslexie",
+    "visuallyImpaired": "Visueel Beperkt",
+    "cognitiveLearning": "Cognitief & Leren",
+    "seizureEpileptic": "Aanvallen & Epileptisch",
+    "adhd": "ADHD"
+  },
+  "content": {
+    "title": "Inhoud",
+    "showTooltips": "Toon Tooltips",
+    "fontSize": "Lettergrootte",
+    "letterSpacing": "Letterafstand",
+    "textAlign": "Tekstuitlijning",
+    "lineHeight": "Regelhoogte",
+    "underlineTitles": "Titels Onderstrepen",
+    "underlineLinks": "Links Onderstrepen",
+    "zoomScreen": "Zoom in op Scherm",
+    "readingLine": "Leeslijn",
+    "dyslexiaFonts": "Dyslexie Lettertypen",
+    "readableFont": "Leesbaar Lettertype",
+    "keyboardNav": "Toetsenbord Navigatie",
+    "leftAlign": "Links uitlijnen",
+    "centerAlign": "Centraal uitlijnen",
+    "rightAlign": "Rechts uitlijnen",
+    "justifyAlign": "Gecentreerd uitlijnen",
+    "readingMask": "Leesmasker"
+  },
+  "color": {
+    "title": "Kleur",
+    "invertColors": "Kleuren Inverseren",
+    "darkContrast": "Donker Contrast",
+    "lightContrast": "Licht Contrast",
+    "saturation": "Verzadiging",
+    "lowSaturation": "Laag Verzadiging",
+    "highSaturation": "Hoog Verzadiging",
+    "desaturate": "Desatureren",
+    "brightness": "Helderheid",
+    "lowBrightness": "Laag Helderheid",
+    "mediumBrightness": "Middelmatige Helderheid",
+    "highBrightness": "Hoge Helderheid"
+  },
+  "colorsSettings": {
+    "textColor": "Tekstkleur",
+    "titleColor": "Titelkleur",
+    "backgroundColor": "Achtergrondkleur"
+  },
+  "orientation": {
+    "title": "Oriëntatie",
+    "bigCursor": "Grote Cursor",
+    "bigWhiteCursor": "Grote Witte Cursor",
+    "bigBlackCursor": "Grote Zwarte Cursor",
+    "textToSpeech": "Tekst naar Spraak",
+    "normal": "Normaal",
+    "slow": "Langzaam",
+    "fast": "Snel",
+    "hideImage": "Afbeelding Verbergen",
+    "muteSounds": "Geluiden Dempen",
+    "pauseAnimations": "Animaties Pauzeren",
+    "highlightHover": "Markeer Hover",
+    "readMode": "Leesmodus",
+    "highlightFocus": "Markeer Focus",
+    "voiceNavigation": "Stem Navigatie"
+  },
+  "linkNavigator": {
+    "title": "Link",
+    "links": [
+      "Selecteer een link om te navigeren",
+      "Sla over naar inhoud",
+      "Home",
+      "Catalogus",
+      "Contact",
+      "Inloggen",
+      "Winkelwagen",
+      "Alle Gender UNEEK II Convertible | Zwart/Jolly Groen"
+    ]
+  },
+  "footer": {
+    "statement": "Verklaring",
+    "resetSettings": "Instellingen Resetten",
+    "poweredBy": "Aangedreven door Isonomy"
+  }
+}
