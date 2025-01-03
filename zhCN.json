@@ -1,0 +1,108 @@
+{
+  "statementModel": {
+      "title": "伊索诺米声明",
+      "complianceStatus": "遵从状态",
+      "complianceText1": "我们坚信互联网应该对所有人开放并且可访问，并且致力于提供一个对最广泛可能受众开放的网站，无论能力如何。",
+      "complianceText2": "为了实现这一点，我们努力严格遵守世界广泛网络联盟（W3C）网页内容可访问性指南2.1（WCAG 2.1）的AA级别。这些指南解释了如何使网页内容对患有各种残疾的人可访问。遵守这些指南帮助我们确保网站对盲人、患有运动障碍、视觉障碍、认知障碍等人可访问。",
+      "complianceText3": "本网站利用各种技术，旨在使其在所有时间内尽可能地可访问。我们使用一个可访问性界面，使具有特定残疾的人能够调整网站的用户界面（UI）并根据其个人需求设计。",
+      "complianceText4": "此外，该网站使用一种基于AI的应用程序，该应用程序在后台运行并不断优化其可访问性级别。该应用程序修复网站的HTML，适应盲人使用的屏幕阅读器和患有运动障碍的个人使用的键盘功能。",
+      "complianceText5": "如果您希望联系网站的所有者，请使用网站的表单",
+      "ariaAttributes": "我们的网站实施ARIA属性（可访问的丰富互联网应用程序）技术，并搭配各种行为变更，以确保使用屏幕阅读器浏览的盲人用户能够阅读、理解和享受网站的功能。当使用屏幕阅读器的用户进入您的网站时，他们会立即收到提示进入屏幕阅读器配置文件，以便他们能够有效地浏览和操作您的网站。以下是我们的网站如何涵盖一些最重要的屏幕阅读器要求：",
+      "screenReaderOptimization": "屏幕阅读器优化：",
+      "screenReaderText": "我们运行一个从上到下学习网站组件的过程，以确保在更新网站时保持持续遵从。在此过程中，我们为屏幕阅读器提供有意义的数据使用ARIA属性集。例如，我们提供准确的表单标签；可操作图标的描述（社交媒体图标、搜索图标、购物车图标等）；表单输入的验证指导；元素角色如按钮、菜单、模态对话框（弹出框）和其他。此外，后台过程扫描网站的所有图像。它提供基于图像对象识别的准确且有意义的描述作为未描述图像的ALT（替代文本）标签。它还将使用光学字符识别（OCR）技术从图像中提取嵌入的文本。要在任何时候打开屏幕阅读器调整，用户只需按Alt+1键组合。屏幕阅读器用户还会在进入网站时收到自动公告以打开屏幕阅读器模式。这些调整与JAWS、NVDA、VoiceOver和TalkBack等流行的屏幕阅读器兼容。",
+      "keyboardNavigationOptimization": "键盘导航优化：",
+      "keyboardNavigationText": "后台过程还调整网站的HTML并使用JavaScript代码添加各种行为，使网站可通过键盘操作。这包括使用Tab和Shift+Tab键导航网站，使用箭头键操作下拉菜单，使用Esc关闭它们，使用Enter键触发按钮和链接，使用箭头键在单选按钮和复选框元素之间导航，并使用空格键或Enter键填充它们。此外，键盘用户还会发现内容跳过菜单在任何时候点击Alt+2，或作为网站的第一个元素，同时使用键盘导航。后台过程还处理触发的弹出窗口，通过在它们出现时将键盘焦点移动到它们，而不允许焦点偏离。用户还可以使用快捷方式如“M”（菜单）、“H”（标题）、“F”（表单）、“B”（按钮）和“G”（图形）跳转到特定元素。"
+  },
+  "interfaceModel": {
+      "title": "隐藏可访问性界面？",
+      "description": "请注意：如果您选择隐藏可访问性界面，则无法再次看到它，除非您清除浏览历史记录和数据。您确定要隐藏界面吗？",
+      "accept": "接受",
+      "cancel": "取消"
+  },
+  "toasterMessage": "伊索诺米设置已重置。",
+  "profile": {
+      "title": "配置文件",
+      "motorImpaired": "运动功能障碍",
+      "blind": "盲人",
+      "colorBlind": "色盲",
+      "dyslexia": "阅读障碍",
+      "visuallyImpaired": "视力障碍",
+      "cognitiveLearning": "认知和学习",
+      "seizureEpileptic": "癫痫发作",
+      "adhd": "多动症"
+  },
+  "content": {
+      "title": "内容",
+      "showTooltips": "显示工具提示",
+      "fontSize": "字体大小",
+      "letterSpacing": "字母间距",
+      "textAlign": "文本对齐",
+      "lineHeight": "行高",
+      "underlineTitles": "标题下划线",
+      "underlineLinks": "链接下划线",
+      "zoomScreen": "放大屏幕",
+      "readingLine": "阅读线",
+      "dyslexiaFonts": "阅读障碍字体",
+      "readableFont": "可读字体",
+      "keyboardNav": "键盘导航",
+      "leftAlign": "左对齐",
+      "centerAlign": "居中对齐",
+      "rightAlign": "右对齐",
+      "justifyAlign": "两端对齐",
+      "readingMask": "阅读遮罩"
+  },
+  "color": {
+      "title": "颜色",
+      "invertColors": "反转颜色",
+      "darkContrast": "深色对比",
+      "lightContrast": "浅色对比",
+      "saturation": "饱和度",
+      "lowSaturation": "低饱和度",
+      "highSaturation": "高饱和度",
+      "desaturate": "去色",
+      "brightness": "亮度",
+      "lowBrightness": "低亮度",
+      "mediumBrightness": "中等亮度",
+      "highBrightness": "高亮度"
+  },
+  "colorsSettings": {
+      "textColor": "文字颜色",
+      "titleColor": "标题颜色",
+      "backgroundColor": "背景颜色"
+  },
+  "orientation": {
+      "title": "方向",
+      "bigCursor": "大光标",
+      "bigWhiteCursor": "大白光标",
+      "bigBlackCursor": "大黑光标",
+      "textToSpeech": "文本转语音",
+      "normal": "正常",
+      "slow": "慢速",
+      "fast": "快速",
+      "hideImage": "隐藏图片",
+      "muteSounds": "静音",
+      "pauseAnimations": "暂停动画",
+      "highlightHover": "高亮悬停",
+      "readMode": "阅读模式",
+      "highlightFocus": "高亮焦点",
+      "voiceNavigation": "语音导航"
+  },
+  "linkNavigator": {
+      "title": "链接",
+      "links": [
+          "选择一个链接进行导航",
+          "跳到内容",
+          "主页",
+          "目录",
+          "联系",
+          "登录",
+          "购物车",
+          "所有性别UNEEK II Convertible | 黑色/欢乐绿"
+      ]
+  },
+  "footer": {
+      "statement": "声明",
+      "resetSettings": "重置设置",
+      "poweredBy": "由伊索诺米提供支持"
+  }
+}
