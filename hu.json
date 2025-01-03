@@ -1,0 +1,108 @@
+{
+  "statementModel": {
+    "title": "Isonómia Nyilatkozat",
+    "complianceStatus": "Megfelelési állapot",
+    "complianceText1": "Szilárdan hiszünk, hogy az internet mindenki számára elérhető és hozzáférhető kellene lennie, és a lehető legszélesebb közönség számára hozzáférhető weboldalt biztosítani törekszünk, függetlenül a képességektől.",
+    "complianceText2": "Ennek elérése érdekében igyekszünk a World Wide Web Consortium (W3C) Web Content Accessibility Guidelines (WCAG) 2.1 AA szintjén a lehető legszigorúbb betartására. Ezek az irányelvek magyarázatot adnak arra, hogyan lehet a webtartalom széles körű fogyatkosságokkal rendelkező emberek számára hozzáférhetővé tenni. Ezeknek az irányelveknek a betartása segít nekünk biztosítani, hogy a weboldal hozzáférhető legyen a vakok, a mozgássérültek, a látássérültek, a kognitív zavarokkal élők és mások számára.",
+    "complianceText3": "Ez a weboldal különböző technológiákat használ, amelyek célja, hogy azt lehető leginkább hozzáférhetővé tegye mindegyédő időben. Egy hozzáférhetőségi felületet használunk, amely lehetővé teszi a specifikus fogyatkosságokkal rendelkező személyek számára, hogy a weboldal felhasználói felületét (UI) személyes igényeiknek megfelelően testreszabják és tervezhessék.",
+    "complianceText4": "Ezen kívül a weboldal egy mesterséges intelligenciára épülő alkalmazást használ, amely a háttérben fut, és folyamatosan optimalizálja annak hozzáférhetőségi szintjét. Ez az alkalmazás javítja a weboldal HTML-jét, alakítja annak funkcionalitását és viselkedését a vakok által használt képerolvasók és a mozgássérültek által használt billentyűzeti funkciók számára.",
+    "complianceText5": "Ha kapcsolatba lépni szeretne a weboldal tulajdonosával, használja a weboldal űrlapját",
+    "ariaAttributes": "Weboldalunk az ARIA attribútumok (Accessible Rich Internet Applications) technikáját valósítja meg másféle változásokkal együtt, hogy biztosítsa, hogy a képerolvasóval böngésző vak emberek a weboldal funkcióit olvashassák, megérthessék és élvezzék. Amint egy képerolvasót használó felhasználó weboldalára lép, azonnal kap egy felszólítást, hogy lépjen be a Képerolvasó Profilba, hogy hatékonyan böngésszen és használja a weboldalt. Íme, hogyan fedi weboldalunk a képerolvasók legfontosabb követelményeinek egy részét:",
+    "screenReaderOptimization": "Képerolvasó optimalizálás:",
+    "screenReaderText": "Egy folyamatot hajtunk végre, amely a weboldal összetevőit fentről lefelé tanulmányozza, hogy a weboldal frissítésekor is folyamatos megfelelést biztosítsunk. Ebben a folyamatban ARIA attribútumok halmazával értelmes adatokat biztosítunk a képerolvasóknak. Példáulok, pontos formcímkéket adunk; leírásokat működő ikonokhoz (társasági média ikonok, kereső ikonok, kosár ikonok stb.); érvényességi útmutatást a formmezők beviteléhez; elemek szerepe, mint például gombok, menük, modális párbeszédablakok (pop-up ablakok) és egyéb. Ezen kívül a háttérfolyamat gondozza a weboldal összes képét. Pontos és jelentős leírást ad a kép-objektum-felismerésen alapuló ALT (alternatív szöveg) címként a nem leírt képekhez. Kinyeri a képekbe ágyazott szövegeket is egy optikai karakterfelismerési (OCR) technológiával. A képerolvasó beállítások bármikor bekapcsolásához a felhasználóknak csak az Alt+1 billentyűkombinációt kell lenyomniuk. A képerolvasó felhasználók automatikus figyelmeztetést is kapnak a képerolvasó mód bekapcsolására, amint belépnek a weboldalra. Ezek a beállítások kompatibilisek a népszerű képerolvasókkal, mint például a JAWS, NVDA, VoiceOver és TalkBack.",
+    "keyboardNavigationOptimization": "Billentyűzetes navigáció optimalizálása:",
+    "keyboardNavigationText": "A háttérfolyamat a weboldal HTML-jét is testreszabja, és JavaScript kóddal különböző viselkedéseket ad hozzá, hogy a weboldal billentyűzettel működtethető legyen. Ehhez tartozik a Tab és Shift+Tab billentyűk segítségével történő navigálás a weboldalon, a nyíló legördülő menük kezelése a nyílirány billentyűkkel, az Esc billentyűvel történő bezárásuk, az Enter billentyű segítségével történő gombok és hivatkozások kiváltása, a nyílirány billentyűk segítségével történő navigálás a rádiógomb és a jelölőnégyzet elemek között és a szóköz és az Enter billentyű segítségével történő kitöltésük. Ezen kívül a billentyűzetes felhasználók a tartalom átugró menüket bármikor elérhetővé teszik az Alt+2 billentyű lenyomásával, vagy a weboldal első elemeként a billentyűzetes navigálás során. A háttérfolyamat a kiváltott pop-up ablakokat is kezeli, azok megjelenésekor azonnal a billentyűzetes fókuszt átmozgatva hozzájuk, és nem engedi, hogy a fókusz eltérjen. A felhasználók gyors billentyűkombinációkat is használhatnak, mint például a „M” (menük), „H” (fejlécek), „F” (űrlapok), „B” (gombok) és „G” (grafikák), hogy specifikus elemekhez ugorjanak."
+  },
+  "interfaceModel": {
+    "title": "Hozzáférhetőségi felület elrejtése?",
+    "description": "Kérjük, vegye figyelembe, hogy ha elrejti a hozzáférhetőségi felületet, többé nem lesz látható, kivéve, ha törli a böngészési előzményeket és adatokat. Biztos benne, hogy el akarja rejteni a felületet?",
+    "accept": "Elfogadom",
+    "cancel": "Mégse"
+  },
+  "toasterMessage": "Az Isonomy beállításai visszaállítva.",
+  "profile": {
+    "title": "Profilok",
+    "motorImpaired": "Mozgássérült",
+    "blind": "Vak",
+    "colorBlind": "Színvak",
+    "dyslexia": "Diszlexia",
+    "visuallyImpaired": "Látássérült",
+    "cognitiveLearning": "Kognitív és Tanulási",
+    "seizureEpileptic": "Roham és Epilepszia",
+    "adhd": "ADHD"
+  },
+  "content": {
+    "title": "Tartalom",
+    "showTooltips": "Eszköztippek megjelenítése",
+    "fontSize": "Betűméret",
+    "letterSpacing": "Betűköz",
+    "textAlign": "Szöveg igazítása",
+    "lineHeight": "Sorköz",
+    "underlineTitles": "Címek aláhúzása",
+    "underlineLinks": "Linkek aláhúzása",
+    "zoomScreen": "Képernyő nagyítása",
+    "readingLine": "Olvasóvonal",
+    "dyslexiaFonts": "Diszlexiás betűk",
+    "readableFont": "Olvasható betűtípus",
+    "keyboardNav": "Billentyűzetes navigáció",
+    "leftAlign": "Balra igazítás",
+    "centerAlign": "Középre igazítás",
+    "rightAlign": "Jobbra igazítás",
+    "justifyAlign": "Sorkizárt igazítás",
+    "readingMask": "Olvasási maszk"
+  },
+  "color": {
+    "title": "Szín",
+    "invertColors": "Színek inverzálása",
+    "darkContrast": "Sötét kontraszt",
+    "lightContrast": "Világos kontraszt",
+    "saturation": "Telítettség",
+    "lowSaturation": "Alacsony telítettség",
+    "highSaturation": "Magas telítettség",
+    "desaturate": "Deszaturálás",
+    "brightness": "Fényerő",
+    "lowBrightness": "Alacsony fényerő",
+    "mediumBrightness": "Közepes fényerő",
+    "highBrightness": "Magas fényerő"
+  },
+  "colorsSettings": {
+    "textColor": "Szöveg színe",
+    "titleColor": "Cím színe",
+    "backgroundColor": "Háttér színe"
+  },
+  "orientation": {
+    "title": "Tájolás",
+    "bigCursor": "Nagy kurzor",
+    "bigWhiteCursor": "Nagy fehér kurzor",
+    "bigBlackCursor": "Nagy fekete kurzor",
+    "textToSpeech": "Szövegből beszéd",
+    "normal": "Normál",
+    "slow": "Lassú",
+    "fast": "Gyors",
+    "hideImage": "Kép elrejtése",
+    "muteSounds": "Hangok némítása",
+    "pauseAnimations": "Animációk szüneteltetése",
+    "highlightHover": "Színkiemelés rámutatáskor",
+    "readMode": "Olvasási mód",
+    "highlightFocus": "Színkiemelés fókuszáláskor",
+    "voiceNavigation": "Hangalapú navigáció"
+  },
+  "linkNavigator": {
+    "title": "Link",
+    "links": [
+      "Válasszon egy linket a navigáláshoz",
+      "Ugrás a tartalomra",
+      "Kezdőlap",
+      "Katalógus",
+      "Kapcsolat",
+      "Bejelentkezés",
+      "Kosár",
+      "Minden nemű UNEEK II Convertible | Fekete/Jolly Zöld"
+    ]
+  },
+  "footer": {
+    "statement": "Nyilatkozat",
+    "resetSettings": "Beállítások visszaállítása",
+    "poweredBy": "A Isonomy üzemelteti"
+  }
+}
