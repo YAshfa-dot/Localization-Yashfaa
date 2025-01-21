@@ -1,108 +1,108 @@
 {
-    "statementModel": {
-        "title": "Declaración de Isonomía",
-        "complianceStatus": "Estado de cumplimiento",
-        "complianceText1": "Creemos firmemente que Internet debe estar disponible y accesible para cualquier persona y nos comprometemos a proporcionar un sitio web que sea accesible para la audiencia más amplia posible, independientemente de la capacidad.",
-        "complianceText2": "Para cumplir con esto, nos esforzamos por adherirnos lo más estrictamente posible a las Pautas de Accesibilidad al Contenido Web (WCAG) 2.1 del Consorcio World Wide Web (W3C) en el nivel AA. Estas pautas explican cómo hacer que el contenido web sea accesible para personas con una amplia gama de discapacidades. Cumplir con esas pautas nos ayuda a asegurarnos de que el sitio web sea accesible para personas ciegas, personas con discapacidades motoras, discapacidades visuales, discapacidades cognitivas y más.",
-        "complianceText3": "Este sitio web utiliza diversas tecnologías que están destinadas a hacerlo lo más accesible posible en todo momento. Utilizamos una interfaz de accesibilidad que permite a las personas con discapacidades específicas ajustar la interfaz de usuario (UI) del sitio web y diseñarla según sus necesidades personales.",
-        "complianceText4": "Además, el sitio web utiliza una aplicación basada en IA que se ejecuta en segundo plano y optimiza constantemente su nivel de accesibilidad. Esta aplicación remedia el HTML del sitio web, adapta su funcionalidad y comportamiento para lectores de pantalla utilizados por usuarios ciegos y para funciones de teclado utilizadas por individuos con discapacidades motoras.",
-        "complianceText5": "Si desea ponerse en contacto con el propietario del sitio web, utilice el formulario del sitio web",
-        "ariaAttributes": "Nuestro sitio web implementa la técnica de atributos ARIA (Aplicaciones Ricas de Internet Accesibles), junto con varios cambios de comportamiento, para asegurar que los usuarios ciegos que visitan con lectores de pantalla puedan leer, comprender y disfrutar de las funciones del sitio web. Tan pronto como un usuario con un lector de pantalla ingresa a su sitio, recibe inmediatamente una solicitud para ingresar al Perfil de Lector de Pantalla para que pueda navegar y operar su sitio de manera efectiva. Aquí se explica cómo nuestro sitio web cubre algunos de los requisitos más importantes de los lectores de pantalla:",
-        "screenReaderOptimization": "Optimización del lector de pantalla:",
-        "screenReaderText": "Ejecutamos un proceso que aprende los componentes del sitio web de arriba a abajo, para asegurar el cumplimiento continuo incluso cuando se actualiza el sitio web. En este proceso, proporcionamos a los lectores de pantalla datos significativos utilizando el conjunto de atributos ARIA. Por ejemplo, proporcionamos etiquetas de formulario precisas; descripciones para iconos accionables (iconos de redes sociales, iconos de búsqueda, iconos de carrito, etc.); orientación de validación para entradas de formulario; roles de elementos como botones, menús, diálogos modales (ventanas emergentes) y otros. Además, el proceso en segundo plano escanea todas las imágenes del sitio web. Proporciona una descripción precisa y significativa basada en el reconocimiento de objetos en imágenes como una etiqueta ALT (texto alternativo) para imágenes que no están descritas. También extraerá textos incrustados dentro de la imagen utilizando una tecnología de reconocimiento óptico de caracteres (OCR). Para activar los ajustes del lector de pantalla en cualquier momento, los usuarios solo necesitan presionar la combinación de teclas Alt+1. Los usuarios de lectores de pantalla también reciben anuncios automáticos para activar el modo de lector de pantalla tan pronto como ingresen al sitio web. Estos ajustes son compatibles con lectores de pantalla populares como JAWS, NVDA, VoiceOver y TalkBack.",
-        "keyboardNavigationOptimization": "Optimización de la navegación por teclado:",
-        "keyboardNavigationText": "El proceso en segundo plano también ajusta el HTML del sitio web y agrega varios comportamientos utilizando código JavaScript para hacer que el sitio web sea operable por el teclado. Esto incluye la capacidad de navegar por el sitio web utilizando las teclas Tab y Shift+Tab, operar desplegables con las teclas de flecha, cerrarlos con Esc, activar botones y enlaces usando la tecla Enter, navegar entre elementos de radio y casillas de verificación usando las teclas de flecha y llenarlos con la barra espaciadora o la tecla Enter. Además, los usuarios del teclado encontrarán menús de omisión de contenido disponibles en cualquier momento haciendo clic en Alt+2, o como el primer elemento del sitio mientras navegan con el teclado. El proceso en segundo plano también maneja las ventanas emergentes activadas moviendo el enfoque del teclado hacia ellas tan pronto como aparezcan, sin permitir que el enfoque se desvíe. Los usuarios también pueden usar atajos como “M” (menús), “H” (encabezados), “F” (formularios), “B” (botones) y “G” (gráficos) para saltar a elementos específicos."
-    },
-    "interfaceModel": {
-        "title": "¿Ocultar la interfaz de accesibilidad?",
-        "description": "Tenga en cuenta: Si elige ocultar la interfaz de accesibilidad, no podrá verla nuevamente, a menos que borre su historial y datos de navegación. ¿Está seguro de que desea ocultar la interfaz?",
-        "accept": "Aceptar",
-        "cancel": "Cancelar"
-    },
-    "toasterMessage": "La configuración de Isonomy ha sido restablecida.",
-    "profile": {
-        "title": "Perfiles",
-        "motorImpaired": "Discapacitado Motor",
-        "blind": "Ciego",
-        "colorBlind": "Daltónico",
-        "dyslexia": "Dislexia",
-        "visuallyImpaired": "Discapacitado Visual",
-        "cognitiveLearning": "Cognitivo y Aprendizaje",
-        "seizureEpileptic": "Epiléptico",
-        "adhd": "TDAH"
-    },
-    "content": {
-        "title": "Contenido",
-        "showTooltips": "Mostrar Tooltips",
-        "fontSize": "Tamaño de Fuente",
-        "letterSpacing": "Espaciado de Letras",
-        "textAlign": "Alinear Texto",
-        "lineHeight": "Altura de Línea",
-        "underlineTitles": "Subrayar Títulos",
-        "underlineLinks": "Subrayar Enlaces",
-        "zoomScreen": "Zoom de Pantalla",
-        "readingLine": "Línea de Lectura",
-        "dyslexiaFonts": "Fuentes para Dislexia",
-        "readableFont": "Fuente Legible",
-        "keyboardNav": "Navegación por Teclado",
-        "leftAlign": "Alinear a la izquierda",
-        "centerAlign": "Alinear al centro",
-        "rightAlign": "Alinear a la derecha",
-        "justifyAlign": "Justificar",
-        "readingMask": "Máscara de Lectura"
-    },
-    "color": {
-        "title": "Color",
-        "invertColors": "Invertir Colores",
-        "darkContrast": "Contraste Oscuro",
-        "lightContrast": "Contraste Claro",
-        "saturation": "Saturación",
-        "lowSaturation": "Baja Saturación",
-        "highSaturation": "Alta Saturación",
-        "desaturate": "Desaturar",
-        "brightness": "Brillo",
-        "lowBrightness": "Brillo Bajo",
-        "mediumBrightness": "Brillo Medio",
-        "highBrightness": "Brillo Alto"
-    },
-    "colorsSettings": {
-        "textColor": "Color de Texto",
-        "titleColor": "Color de Título",
-        "backgroundColor": "Color de Fondo"
-    },
-    "orientation": {
-        "title": "Orientación",
-        "bigCursor": "Cursor Grande",
-        "bigWhiteCursor": "Cursor Grande Blanco",
-        "bigBlackCursor": "Cursor Grande Negro",
-        "textToSpeech": "Texto a Voz",
-        "normal": "Normal",
-        "slow": "Lento",
-        "fast": "Rápido",
-        "hideImage": "Ocultar Imagen",
-        "muteSounds": "Silenciar Sonidos",
-        "pauseAnimations": "Pausar Animaciones",
-        "highlightHover": "Resaltar Hover",
-        "readMode": "Modo de Lectura",
-        "highlightFocus": "Resaltar Enfoque",
-        "voiceNavigation": "Navegación por Voz"
-    },
-    "linkNavigator": {
-        "title": "Enlace",
-        "links": [
-            "Seleccione un enlace para navegar",
-            "Saltar al contenido",
-            "Inicio",
-            "Catálogo",
-            "Contacto",
-            "Iniciar sesión",
-            "Carrito",
-            "Todos los géneros UNEEK II Convertible | Negro/Verde Alegre"
-        ]
-    },
-    "footer": {
-        "statement": "Declaración",
-        "resetSettings": "Restablecer Configuraciones",
-        "poweredBy": "Impulsado por Isonomy"
-    }
+  "statementModel": {
+      "title": "Declaración de Isonomía",
+      "complianceStatus": "Estado de cumplimiento",
+      "complianceText1": "Creemos firmemente que Internet debe estar disponible y accesible para cualquier persona y nos comprometemos a proporcionar un sitio web que sea accesible para la audiencia más amplia posible, independientemente de la capacidad.",
+      "complianceText2": "Para cumplir con esto, nos esforzamos por adherirnos lo más estrictamente posible a las Pautas de Accesibilidad al Contenido Web (WCAG) 2.1 del Consorcio World Wide Web (W3C) en el nivel AA. Estas pautas explican cómo hacer que el contenido web sea accesible para personas con una amplia gama de discapacidades. Cumplir con esas pautas nos ayuda a asegurarnos de que el sitio web sea accesible para personas ciegas, personas con discapacidades motoras, discapacidades visuales, discapacidades cognitivas y más.",
+      "complianceText3": "Este sitio web utiliza diversas tecnologías que están destinadas a hacerlo lo más accesible posible en todo momento. Utilizamos una interfaz de accesibilidad que permite a las personas con discapacidades específicas ajustar la interfaz de usuario (UI) del sitio web y diseñarla según sus necesidades personales.",
+      "complianceText4": "Además, el sitio web utiliza una aplicación basada en IA que se ejecuta en segundo plano y optimiza constantemente su nivel de accesibilidad. Esta aplicación remedia el HTML del sitio web, adapta su funcionalidad y comportamiento para lectores de pantalla utilizados por usuarios ciegos y para funciones de teclado utilizadas por individuos con discapacidades motoras.",
+      "complianceText5": "Si desea ponerse en contacto con el propietario del sitio web, utilice el formulario del sitio web",
+      "ariaAttributes": "Nuestro sitio web implementa la técnica de atributos ARIA (Aplicaciones Ricas de Internet Accesibles), junto con varios cambios de comportamiento, para asegurar que los usuarios ciegos que visitan con lectores de pantalla puedan leer, comprender y disfrutar de las funciones del sitio web. Tan pronto como un usuario con un lector de pantalla ingresa a su sitio, recibe inmediatamente una solicitud para ingresar al Perfil de Lector de Pantalla para que pueda navegar y operar su sitio de manera efectiva. Aquí se explica cómo nuestro sitio web cubre algunos de los requisitos más importantes de los lectores de pantalla:",
+      "screenReaderOptimization": "Optimización del lector de pantalla:",
+      "screenReaderText": "Ejecutamos un proceso que aprende los componentes del sitio web de arriba a abajo.",
+      "keyboardNavigationOptimization": "Optimización de la navegación por teclado:",
+      "keyboardNavigationText": "El proceso en segundo plano también ajusta el HTML del sitio web y agrega varios comportamientos utilizando código JavaScript para hacer que el sitio web sea operable por el teclado."
+  },
+  "interfaceModel": {
+      "title": "¿Ocultar la interfaz de accesibilidad?",
+      "description": "Tenga en cuenta: Si elige ocultar la interfaz de accesibilidad, no podrá verla nuevamente, a menos que borre su historial y datos de navegación. ¿Está seguro de que desea ocultar la interfaz?",
+      "accept": "Aceptar",
+      "cancel": "Cancelar"
+  },
+  "toasterMessage": "La configuración de Isonomy ha sido restablecida.",
+  "profile": {
+      "title": "Perfiles",
+      "motorImpaired": "Discapacitado Motor",
+      "blind": "Ciego",
+      "colorBlind": "Daltónico",
+      "dyslexia": "Dislexia",
+      "visuallyImpaired": "Discapacitado Visual",
+      "cognitiveLearning": "Cognitivo y Aprendizaje",
+      "seizureEpileptic": "Epiléptico",
+      "adhd": "TDAH"
+  },
+  "content": {
+      "title": "Contenido",
+      "showTooltips": "Mostrar Tooltips",
+      "fontSize": "Tamaño de Fuente",
+      "letterSpacing": "Espaciado de Letras",
+      "textAlign": "Alinear Texto",
+      "lineHeight": "Altura de Línea",
+      "underlineTitles": "Subrayar Títulos",
+      "underlineLinks": "Subrayar Enlaces",
+      "zoomScreen": "Zoom de Pantalla",
+      "readingLine": "Línea de Lectura",
+      "dyslexiaFonts": "Fuentes para Dislexia",
+      "readableFont": "Fuente Legible",
+      "keyboardNav": "Navegación por Teclado",
+      "leftAlign": "Alinear a la izquierda",
+      "centerAlign": "Alinear al centro",
+      "rightAlign": "Alinear a la derecha",
+      "justifyAlign": "Justificar",
+      "readingMask": "Máscara de Lectura"
+  },
+  "color": {
+      "title": "Color",
+      "invertColors": "Invertir Colores",
+      "darkContrast": "Contraste Oscuro",
+      "lightContrast": "Contraste Claro",
+      "saturation": "Saturación",
+      "lowSaturation": "Baja Saturación",
+      "highSaturation": "Alta Saturación",
+      "desaturate": "Desaturar",
+      "brightness": "Brillo",
+      "lowBrightness": "Brillo Bajo",
+      "mediumBrightness": "Brillo Medio",
+      "highBrightness": "Brillo Alto"
+  },
+  "colorsSettings": {
+      "textColor": "Color de Texto",
+      "titleColor": "Color de Título",
+      "backgroundColor": "Color de Fondo"
+  },
+  "orientation": {
+      "title": "Orientación",
+      "bigCursor": "Cursor Grande",
+      "bigWhiteCursor": "Cursor Grande Blanco",
+      "bigBlackCursor": "Cursor Grande Negro",
+      "textToSpeech": "Texto a Voz",
+      "normal": "Normal",
+      "slow": "Lento",
+      "fast": "Rápido",
+      "hideImage": "Ocultar Imagen",
+      "muteSounds": "Silenciar Sonidos",
+      "pauseAnimations": "Pausar Animaciones",
+      "highlightHover": "Resaltar Hover",
+      "readMode": "Modo de Lectura",
+      "highlightFocus": "Resaltar Enfoque",
+      "voiceNavigation": "Navegación por Voz"
+  },
+  "linkNavigator": {
+      "title": "Enlace",
+      "links": [
+          "Seleccione un enlace para navegar",
+          "Saltar al contenido",
+          "Inicio",
+          "Catálogo",
+          "Contacto",
+          "Iniciar sesión",
+          "Carrito",
+          "Todos los géneros UNEEK II Convertible | Negro/Verde Alegre"
+      ]
+  },
+  "footer": {
+      "statement": "Declaración",
+      "resetSettings": "Restablecer Configuraciones",
+      "poweredBy": "Impulsado por Isonomy"
+  }
 }
