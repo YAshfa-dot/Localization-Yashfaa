@@ -19,7 +19,7 @@
     "accept": "承認",
     "cancel": "キャンセル"
   },
-  "toasterMessage": "イソノミー設定がリセットされました。",
+  "toasterMessage": "設定をリセット！",
   "profile": {
     "title": "プロファイル",
     "motorImpaired": "運動障害者",
