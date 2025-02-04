@@ -20,7 +20,7 @@
       "accept": "قبول",
       "cancel": "إلغاء"
   },
-  "toasterMessage": "تم إعادة تعيين إعدادات المساواة.",
+  "toasterMessage": "إعادة تعيين الإعدادات!",
   "profile": {
       "title": "الملفات الشخصية",
       "motorImpaired": "المعاقين حركياً",
