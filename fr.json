@@ -19,7 +19,7 @@
       "accept": "Accepter",
       "cancel": "Annuler"
   },
-  "toasterMessage": "Les paramètres Isonomy ont été réinitialisés.",
+  "toasterMessage": "Réinitialisation des paramètres!",
   "profile": {
       "title": "Profils",
       "motorImpaired": "Handicap moteur",
