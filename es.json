@@ -19,7 +19,7 @@
       "accept": "Aceptar",
       "cancel": "Cancelar"
   },
-  "toasterMessage": "La configuración de Isonomy ha sido restablecida.",
+  "toasterMessage": "¡Configuración restablecida!.",
   "profile": {
       "title": "Perfiles",
       "motorImpaired": "Discapacitado Motor",
