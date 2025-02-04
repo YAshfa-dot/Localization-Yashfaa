@@ -19,7 +19,7 @@
       "accept": "接受",
       "cancel": "取消"
   },
-  "toasterMessage": "伊索诺米设置已重置。",
+  "toasterMessage": "设置重置！",
   "profile": {
       "title": "配置文件",
       "motorImpaired": "运动功能障碍",
