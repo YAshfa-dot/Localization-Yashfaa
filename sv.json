@@ -19,7 +19,7 @@
       "accept": "Acceptera",
       "cancel": "Avbryt"
   },
-  "toasterMessage": "Isonomi inställningar har återställts.",
+  "toasterMessage": "Återställ inställningar!",
   "profile": {
       "title": "Profiler",
       "motorImpaired": "Motoriskt handikappad",
